@@ -1,5 +1,7 @@
 ## Who am I?
 
+![DougHeadshot](/Images/Bio/DougHeadShot.jpg)
+
 Douglas Arneson is a [Postdoctoral Scholar](https://profiles.ucsf.edu/douglas.arneson) in the [Bakar Institute of Computational Health](https://bakarinstitute.ucsf.edu) at UCSF.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
