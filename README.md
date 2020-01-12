@@ -1,8 +1,6 @@
 ## Who am I?
 
-<img align="left" width="15%" height="15%" src="/Images/Bio/DougHeadShot.jpg">
-style="float: right;margin-right: 7px;margin-top: 7px;
-![DougHeadshot](/Images/Bio/DougHeadShot.jpg){:height="50%" width="50%"; margin-right="7px"; margin-bottom="7px}
+<img align="left" width="15%" height="15%" margin-right="7px" margin-bottom="7px" src="/Images/Bio/DougHeadShot.jpg">
 
 Douglas Arneson is a [Postdoctoral Scholar](https://profiles.ucsf.edu/douglas.arneson) in the [Bakar Institute of Computational Health](https://bakarinstitute.ucsf.edu) at UCSF.
 
