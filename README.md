@@ -2,9 +2,11 @@
 
 <img align="left" width="15%" height="15%" margin-right="7px" margin-bottom="7px" src="/Images/Bio/DougHeadShot.jpg">
 
-Douglas Arneson is a [Postdoctoral Scholar](https://profiles.ucsf.edu/douglas.arneson) in the [Bakar Institute of Computational Health](https://bakarinstitute.ucsf.edu) at UCSF.
+[Douglas Arneson](https://profiles.ucsf.edu/douglas.arneson) is a Postdoctoral Scholar in the [Bakar Institute of Computational Health](https://bakarinstitute.ucsf.edu) at UCSF. He earned a B.S. in Bioengineering and a Ph.D. in Bioinformatics at UCLA. His doctoral thesis entitled [Development and Application of Systems Genomics Approaches to Dissect Complex Diseases](https://escholarship.org/uc/item/5jf240c4) focuses on the [integration multi-omics data to better explain the etiology of complex diseases](https://www.ncbi.nlm.nih.gov/pubmed/27612452) and...
 
 ## Case Studies
+
+data: https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016
 
 ### Can we predict pass/run?
 
