@@ -1,6 +1,6 @@
 ## Who am I?
 
-![DougHeadshot](/Images/Bio/DougHeadShot.jpg)
+![DougHeadshot](/Images/Bio/DougHeadShot.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 Douglas Arneson is a [Postdoctoral Scholar](https://profiles.ucsf.edu/douglas.arneson) in the [Bakar Institute of Computational Health](https://bakarinstitute.ucsf.edu) at UCSF.
 
