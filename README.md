@@ -1,5 +1,5 @@
 ## Who am I?
-<img align="left" width="20%" height="20%" padding="25px" src="{{ site.baseurl }}/Images/Bio/DougHeadShot.png" alt="Doug Headshot">
+<img align="left" width="20%" height="20%" src="{{ site.baseurl }}/Images/Bio/DougHeadShot.png" alt="Doug Headshot">
 
 [Douglas Arneson](https://profiles.ucsf.edu/douglas.arneson) is a Postdoctoral Scholar in the [Bakar Institute of Computational Health](https://bakarinstitute.ucsf.edu) at UCSF. He earned a B.S. in Bioengineering and a Ph.D. in Bioinformatics at UCLA. His doctoral thesis entitled [Development and Application of Systems Genomics Approaches to Dissect Complex Diseases](https://escholarship.org/uc/item/5jf240c4) focuses on the [integration multi-omics data to better explain the etiology of complex diseases](https://www.ncbi.nlm.nih.gov/pubmed/27612452) and [single cell sequencing to reveal target cells and pathways of concussive brain injury](https://www.ncbi.nlm.nih.gov/pubmed/?term=Single+cell+molecular+alterations+reveal+target+cells+and+pathways+of+concussive+brain+injury).
 
