@@ -1,7 +1,8 @@
-site_name: EZClapAnalytics # Website name (comes on top left in nav bar)
+site_name: EZClapAnalytics #Website name (comes on top left in nav bar)
 site_description: A foray into NFL analytics #browser tab tooltip text
 site_author: Douglas Arneson(darneson) #don't know where does it shows
-site_url: https://darneson.github.io/EZClapAnalytics/  # used for using local images in production
+site_url: https://darneson.github.io/EZClapAnalytics/  #used for using local images in production
+baseurl: /EZClapAnalytics #need to specify this to use relative paths
 
 #Header
 #repo_name: 'darneson/EZClapAnalytics'
