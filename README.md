@@ -1,8 +1,6 @@
 ## Who am I?
-<img align="left" width="20%" height="20%" src="{{ site.baseurl }}/Images/Bio/DougHeadShot.png" alt="Doug Headshot">
-
-<div style="float: left; padding-right: 15px;">
-  <img src="{{ site.baseurl }}/Images/Bio/DougHeadShot.png" style="width: 20%; height: 20%; background-color: white;">
+<div style="float: left; padding-right: 5px;">
+  <img src="{{ site.baseurl }}/Images/Bio/DougHeadShot.png" style="width: 100%; height: 100%;">
   </img>
 </div>
 
