@@ -6,6 +6,7 @@
 ## Case Studies
 
 data: https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016
+get ideas from: https://whitakerlab.github.io/about/
 
 ### Can we predict pass/run?
 
