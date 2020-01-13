@@ -1,1 +1,23 @@
+site_name: EZClapAnalytics # Website name (comes on top left in nav bar)
+site_description: A foray into NFL analytics #browser tab tooltip text
+site_author: Douglas Arneson(darneson) #don't know where does it shows
+site_url: https://darneson.github.io/EZClapAnalytics/  # used for using local images in production
+
+#Header
+#repo_name: 'darneson/EZClapAnalytics'
+#repo_url: 'https://github.com/darneson/EZClapAnalytics'
+#tabs:{a,b,c} X # Tabs are generated automatically using nav's topmost division and theme's  extras -tabs: true feature
+
+#Footer
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/darneson'
+    - type: 'twitter'
+      link: 'https://twitter.com/Doug_Arneson'
+    - type: 'linkedin'
+      link: 'https://linkedin.com/in/douglas-arneson-89aba3114/'
+
+copyright: Copyright &copy; 2019 <a href="https://linkedin.com/in/douglas-arneson-89aba3114/">Douglas Arneson</a>
+
 theme: jekyll-theme-slate
